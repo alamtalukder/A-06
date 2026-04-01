@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Honey",
+    "description": "Automatic coupon finder and promo code applicator that saves money on online purchases.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Auto-applies coupons", "Price tracking", "Gold rewards", "Works on 30,000+ stores", "Browser extension"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968890.png",
+    "status": "popular"
+  },
+  {
+    "id": 2,
+    "name": "Rakuten",
+    "description": "Earn cashback on online shopping from thousands of stores including Amazon, Walmart, and more.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Cashback up to 40%", "In-store cashback", "Referral bonus", "Quarterly payouts", "Browser & mobile app"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/10101/10101324.png",
+    "status": "popular"
+  },
+  {
+    "id": 3,
+    "name": "Capital One Shopping",
+    "description": "Smart shopping assistant that finds better prices and applies coupons automatically.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Price comparison", "Auto coupon finder", "Price drop alerts", "Virtual cards", "No account needed"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/12226/12226747.png",
+    "status": "favourite"
+  },
+  {
+    "id": 4,
+    "name": "AppSumo",
+    "description": "Marketplace for lifetime deals on premium digital tools and SaaS products.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Lifetime licenses", "Huge discounts", "Curated deals", "Software for entrepreneurs", "Refund guarantee"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/14497/14497510.png",
+    "status": "mostwanted"
+  },
+  {
+    "id": 5,
+    "name": "Slickdeals",
+    "description": "Community-driven platform to discover the best real-time deals on tech and digital products.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Deal alerts", "Price drop notifications", "Hot deal voting", "Forum discussions", "Mobile app"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/11751/11751671.png",
+    "status": "popular"
+  },
+  {
+    "id": 6,
+    "name": "CamelCamelCamel",
+    "description": "Amazon price history tracker that helps you buy at the lowest price.",
+    "price": 0,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Price history charts", "Price alerts", "Camelizer browser extension", "Amazon product tracker", "Daily deals"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968349.png",
+    "status": "favourite"
+  },
+  {
+    "id": 7,
+    "name": "Keepa",
+    "description": "Powerful Amazon price tracking tool with detailed historical data and sales rank.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "",
+    "tagType": "",
+    "features": ["Advanced price graphs", "Sales rank tracking", "Restock alerts", "Browser extension", "API access"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/10101/10101320.png",
+    "status": "mostwanted"
+  },
+  {
+    "id": 8,
+    "name": "Truebill (now Rocket Money)",
+    "description": "Subscription management tool that tracks and cancels unwanted digital service bills.",
+    "price": 4,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["Subscription tracking", "Bill negotiation", "Cancel unwanted services", "Savings insights", "Credit score monitoring"],
+    "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968894.png",
+    "status": "popular"
+  }
+]
