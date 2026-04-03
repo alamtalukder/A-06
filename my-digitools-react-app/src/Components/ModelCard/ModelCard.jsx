@@ -1,12 +1,19 @@
 import React from 'react';
 import { useState } from 'react';
+import { toast } from 'react-toastify';
 
 const ModelCard = ({model, carts, setCarts}) => {
      const [isSubscribed, setIsSubscribed] = useState(false);
+     const isFinded = carts.find(item => item.id === model.id);
      const handleBuyNow = () => {
-        setIsSubscribed(true);
-        setCarts([...carts, model]);    
+        if(isFinded){
+        toast.error("Item already in cart!");
+        return ; 
      }
+        setIsSubscribed(true);
+        setCarts([...carts, model]);
+        toast.success("Item added to cart!");
+    };
     return (
         <div className=' p-8 shadow-lg rounded-lg border'>         
             <div><img className='w-10 h-10' src={model.icon} alt={model.name} /></div>
