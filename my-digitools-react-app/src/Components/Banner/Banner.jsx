@@ -7,7 +7,7 @@ const Banner = () => {
       <div className=" mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 items-center relative z-10">
         {/* Left Content */}
         <div className="space-y-4">
-          <div className="inline-flex items-center gap-2 bg-red-500/10 border border-red-500/30 text-red-400 text-sm font-medium px-5 py-2 rounded-full">
+          <div className="inline-flex items-center gap-2 bg-blue-500 border border-red-500/30 text-red-400 text-sm font-medium px-5 py-2 rounded-full">
             ✨ New: AI Powered-Tools Available 
           </div>
 
