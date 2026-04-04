@@ -8,7 +8,7 @@
     "tag": "popular",
     "tagType": "popular",
     "features": ["Auto-applies coupons", "Price tracking", "Gold rewards", "Works on 30,000+ stores", "Browser extension"],
-    "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968890.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYpgsRmGohxZbUSGNlw-GCKsFMM-eYH98xQ&s",
     "status": "popular"
   },
   {
@@ -20,7 +20,7 @@
     "tag": "best seller",
     "tagType": "best seller",
     "features": ["Cashback up to 40%", "In-store cashback", "Referral bonus", "Quarterly payouts", "Browser & mobile app"],
-    "icon": "https://cdn-icons-png.flaticon.com/512/10101/10101324.png",
+    "icon": "https://cdn-icons-png.flaticon.com/512/8468/8468918.png",
     "status": "popular"
   },
   {
@@ -32,7 +32,7 @@
     "tag": "new",
     "tagType": "new",
     "features": ["Price comparison", "Auto coupon finder", "Price drop alerts", "Virtual cards", "No account needed"],
-    "icon": "https://cdn-icons-png.flaticon.com/512/12226/12226747.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcPyo2I3h_FDSkZxo52D_Go3XZvcjm7n7rWg&s",
     "status": "favourite"
   },
   {
@@ -44,7 +44,7 @@
     "tag": "best seller",
     "tagType": "best seller",
     "features": ["Lifetime licenses", "Huge discounts", "Curated deals", "Software for entrepreneurs", "Refund guarantee"],
-    "icon": "https://cdn-icons-png.flaticon.com/512/14497/14497510.png",
+    "icon": "https://cdn-icons-png.flaticon.com/512/6387/6387426.png",
     "status": "mostwanted"
   },
   {
@@ -56,7 +56,7 @@
     "tag": "popular",
     "tagType": "popular",
     "features": ["Deal alerts", "Price drop notifications", "Hot deal voting", "Forum discussions", "Mobile app"],
-    "icon": "https://cdn-icons-png.flaticon.com/512/11751/11751671.png",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3771/3771518.png",
     "status": "popular"
   },
   {
@@ -68,7 +68,7 @@
     "tag": "new",
     "tagType": "new",
     "features": ["Price history charts", "Price alerts", "Camelizer browser extension", "Amazon product tracker", "Daily deals"],
-    "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968349.png",
+    "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ621sPEVhoiTDUTFtKvHJa-M1X-OftpKhLZg&s",
     "status": "favourite"
   },
   {
@@ -80,7 +80,7 @@
     "tag": "",
     "tagType": "",
     "features": ["Advanced price graphs", "Sales rank tracking", "Restock alerts", "Browser extension", "API access"],
-    "icon": "https://cdn-icons-png.flaticon.com/512/10101/10101320.png",
+    "icon": "https://cdn-icons-png.freepik.com/256/18174/18174465.png?semt=ais_white_label",
     "status": "mostwanted"
   },
   {
@@ -92,7 +92,7 @@
     "tag": "best seller",
     "tagType": "best seller",
     "features": ["Subscription tracking", "Bill negotiation", "Cancel unwanted services", "Savings insights", "Credit score monitoring"],
-    "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968894.png",
+    "icon": "https://cdn-icons-png.flaticon.com/512/3852/3852620.png",
     "status": "popular"
   }
 ]

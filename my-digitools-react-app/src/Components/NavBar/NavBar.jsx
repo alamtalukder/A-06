@@ -1,3 +1,4 @@
+import cartImage from '../../assets/products/shopping-cart.png';
 const NavBar = () => {
   return (
     <div className="navbar">
@@ -26,7 +27,9 @@ const NavBar = () => {
         </ul>
       </div>
       <div className="navbar-end gap-5">
-        <a className="btn btn-primary rounded-full text-white">Get in Touch</a>
+        <img src={cartImage} alt="" />
+        <a className="text-xl text-gray-600 text-semi-bold" href="">Login</a>
+        <a className="btn btn-primary rounded-full text-white">Get Started</a>
       </div>
     </div>
   );

@@ -9,7 +9,7 @@ import { useState } from 'react'
 
 
 const getModels = async () => {
-  const res = await fetch('../public/ToolsData.json')
+  const res = await fetch('./ToolsData.json')
   const data = await res.json()
   return data
 }
