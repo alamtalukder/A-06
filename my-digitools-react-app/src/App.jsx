@@ -20,7 +20,7 @@ function App() {
  const [carts, setCarts] = useState([]);
  console.log(carts); 
   return (
-    <>
+    <> 
       <NavBar />
 
       <Banner />
