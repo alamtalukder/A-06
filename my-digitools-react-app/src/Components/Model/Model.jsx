@@ -8,7 +8,9 @@ const Model = ({modelPromise, carts, setCarts}) => {
         <div className='py-20 max-w-7xl mx-auto'>
             <div className="text-center" >
                 <h1 className='text-5xl font-bold'>Premium Digital Tools</h1>
-                <p>Choose from our curated collection of premium digital products designed <br /> to boost your productivity and creativity.</p>
+                <p className='mt-4 text-lg text-zinc-500'>
+                    Choose from our curated collection of premium digital products designed <br /> to boost your productivity and creativity.
+                </p>
             </div>
             <div className='grid md:grid-cols-2 lg:grid-cols-3 gap-5 mt-10 p-10'>
                 {
